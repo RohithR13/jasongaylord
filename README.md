@@ -1,7 +1,11 @@
-### Hi there 👋
+## Thanks for stopping by
+At any time, you can find out more about me by visiting my website at [jasongaylord.com](https://jasong.us/2xJWFAa).
+
+- 😄 Pronouns:he/him
 
 <!--
 **jasongaylord/jasongaylord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
