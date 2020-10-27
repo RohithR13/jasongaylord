@@ -7,7 +7,7 @@ At any time, you can find out more about me by visiting my website at [jasongayl
 ![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
 [![Jason Gaylord's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![Jason Gaylord's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![Jason Gaylord's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=3&theme=tokyonight)]()
 
 <!--
 - 🔭 I’m currently working on ...
